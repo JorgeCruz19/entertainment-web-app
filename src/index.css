@@ -51,9 +51,15 @@ body {
 
 img {
   height: auto;
+  max-width: 100%;
+  width: 100%;
   vertical-align: middle;
 }
 
 a {
   text-decoration: none;
+}
+
+ul{
+  list-style: none;
 }
